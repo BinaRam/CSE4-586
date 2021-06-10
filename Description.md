@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 # CSE4/586 Introduction to Distributed Systems   Fall 2021
 
 ## Short Description
