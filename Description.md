@@ -1,4 +1,9 @@
-
+---
+title: "CSE4/586 Description"
+author: "Bina Ramamurthy"
+date: "7/15/2021"
+output: pdf_document
+---
 # CSE4/586 Introduction to Distributed Systems   Fall 2021
 
 ## Short Description
@@ -13,7 +18,8 @@ On completion of this course, a student will be able to design and implement a r
 good understanding and working knowledge of reliable distributed systems and data streaming systems such as Kafka.
 
 ## Course Information
-- Website: http://www.cse.buffalo.edu/~bina/cse486/fall2021
+- Website for general information: http://www.cse.buffalo.edu/~bina/cse486/fall2021
+- We will use ublearns for the ongoing course activities.
 - Instructor: Bina Ramamurthy (bina@buffalo.edu)
 - Lecture Time: TuTh 2:20PM - 3:35PM
 - Lecture Location: Knox 104
@@ -136,9 +142,9 @@ others. You must abide by the UB and Departmental Academic Integrity policy at a
 that items taken from the Internet are also covered by the academic integrity policy! If you are unsure if a particular
 action violates the academic integrity policy, assume that it does until you receive clarification from the instructor.
 
-## Web Site
-The CSE486 website should be checked frequently for important news. Course assignments, slides, grade reporting,
-and general hints and tips will be posted on the website.
+## Web Site and ublearns
+The CSE486/586 website should be checked frequently for important news. Course assignments, slides, grade reporting,
+and general hints and tips will be posted on the ublearns blackboard LMS system.
 
 ## Students with Accessibility Issues
 If you have special needs due to a disability, you must be registered with the Office of Student Accessibility. If you
