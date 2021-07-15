@@ -80,12 +80,14 @@ When your grade is assigned for the lab, the TA will indicate critical areas tha
 next assignment. In general, solutions are not provided for the lab. It is not that we do not have them, or am
 unwilling to distribute them but it’s that there is no one answer to any project solution.
 
-## Exams
+## Exams and quizzes
 There will be a midterm that will be administered and graded before the resign date. Exam1 will cover all lecture
 and reading assignments before the exam, as well as concepts from the lab assignments. The Exam2 is a
 comprehensive exam, covering all lecture, lab, and homework areas. All exams are closed book, closed notes, and
 closed neighbor. We do not give make up exams for any reason. If you miss an exam, you will receive a zero for
 that portion of the grade.
+
+Quizzes will be pop-quizzes and may be unannounced. No makeup quizzes will be given.
 
 ## Attendance Policy
 You are responsible for the contents of all lectures and recitations (your assigned section). If you know that you are
